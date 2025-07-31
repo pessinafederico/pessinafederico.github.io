@@ -29,7 +29,8 @@ author:
   location         : "London, UK"
   employer         : "UCL"
   uri              : # URL
-  email            : "federico.pessina18[at]ucl.ac.uk, pessina.federico[at]gmail.com" # email address, e.g. "john.smith[at]example.com"
+  email_work       : "federico.pessina.18[at]ucl.ac.uk" 
+  email_personal   : "pessina.federico[at]gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -62,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : federico-pessina-782531b5
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -121,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
